@@ -1,5 +1,4 @@
 import { ArrowUpRight, Github, Linkedin, Mail } from "../components/Icons";
-import { IconLink } from "../components/Icons";
 
 export default function Contact() {
   return (
