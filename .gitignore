@@ -1,0 +1,12 @@
+node_modules
+
+# Dependencies
+node_modules/
+.pnpm-store/
+.yarn/
+
+# Build output
+dist/
+build/
+.next/
+out/
